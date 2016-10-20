@@ -8,7 +8,7 @@ A starter project for a [React](https://github.com/facebook/react) & [Redux](htt
 
 ```
 git clone https://github.com/kmees/spfx-react-redux-webpart-starter
-cd spfx-react-redux-webpack-starter
+cd spfx-react-redux-webpart-starter
 npm install
 npm start
 ```
