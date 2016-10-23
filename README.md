@@ -4,10 +4,10 @@ A starter project for a [React](https://github.com/facebook/react) & [Redux](htt
 
 ## Example: Webpart properties
 ### Reactive
-![](https://i.gyazo.com/7358cbd8ec54dd1acf6ec99479e21dff.gif)
+![](https://i.gyazo.com/729c4addf6c992513f8eb91a3fa0e302.gif)
 
 ### Non-Reactive
-![](https://i.gyazo.com/c158d67ca3356436843388fa03c6da44.gif)
+![](https://i.gyazo.com/1981f22fa6a162931a29ce8dad9c2657.gif)
 
 ## Getting started
 
